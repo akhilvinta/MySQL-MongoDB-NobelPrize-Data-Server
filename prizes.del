@@ -1,0 +1,962 @@
+0|2001|Economic Sciences|2
+1|1975|Physics|1
+2|2004|Chemistry|1
+3|1982|Chemistry|1
+4|1979|Physics|2
+5|2019|Economic Sciences|1
+6|2019|Peace|1
+7|2009|Chemistry|3
+8|2011|Physics|3
+9|1939|Chemistry|1
+10|1905|Chemistry|1
+11|1928|Chemistry|1
+12|1980|Peace|1
+13|1999|Chemistry|1
+14|2010|Chemistry|3
+15|2019|Chemistry|3
+16|2007|Peace|2
+17|2000|Chemistry|1
+18|1963|Physiology or Medicine|2
+19|2000|Chemistry|2
+20|1907|Physics|1
+21|1957|Literature|1
+22|1974|Physiology or Medicine|1
+23|1921|Physics|1
+24|2007|Physics|1
+25|1902|Peace|2
+26|1960|Peace|1
+27|1952|Peace|1
+28|1937|Physiology or Medicine|1
+29|1910|Physiology or Medicine|1
+30|1964|Physics|3
+31|1970|Literature|1
+32|2003|Physics|1
+33|1912|Physiology or Medicine|1
+34|1982|Peace|2
+35|1969|Physiology or Medicine|2
+36|1911|Peace|2
+37|1994|Physiology or Medicine|1
+38|1966|Physics|1
+39|1913|Chemistry|1
+40|2013|Literature|1
+41|1979|Physiology or Medicine|1
+42|1911|Physiology or Medicine|1
+43|1907|Physiology or Medicine|1
+44|1982|Peace|1
+45|2012|Economic Sciences|1
+46|1998|Economic Sciences|1
+47|1947|Peace|2
+48|1977|Peace|1
+49|1921|Literature|1
+50|1956|Physiology or Medicine|1
+51|2010|Physics|1
+52|1947|Literature|1
+53|1965|Physiology or Medicine|2
+54|2020|Physics|3
+55|1975|Peace|1
+56|1963|Physiology or Medicine|3
+57|1977|Physiology or Medicine|2
+58|2006|Physiology or Medicine|1
+59|2015|Economic Sciences|1
+60|2003|Physics|3
+61|1974|Physics|2
+62|1978|Peace|1
+63|1952|Chemistry|1
+64|1922|Physiology or Medicine|1
+65|2013|Chemistry|3
+66|1926|Peace|1
+67|1948|Chemistry|1
+68|1978|Physics|2
+69|2018|Physics|1
+70|2015|Physics|2
+71|1927|Physics|1
+72|1929|Chemistry|1
+73|1934|Peace|1
+74|1959|Physiology or Medicine|2
+75|1981|Physics|2
+76|1945|Chemistry|1
+77|2000|Physiology or Medicine|1
+78|1920|Physiology or Medicine|1
+79|1909|Peace|1
+80|1991|Peace|1
+81|2004|Chemistry|2
+82|2015|Chemistry|3
+83|2009|Peace|1
+84|1983|Physiology or Medicine|1
+85|2017|Physics|2
+86|2005|Physiology or Medicine|1
+87|2001|Chemistry|3
+88|1976|Physiology or Medicine|1
+89|1980|Physiology or Medicine|1
+90|1975|Physics|2
+91|2016|Economic Sciences|2
+92|1982|Physiology or Medicine|2
+93|2016|Chemistry|3
+94|1947|Physiology or Medicine|3
+95|1991|Physiology or Medicine|2
+96|1905|Peace|1
+97|1977|Economic Sciences|1
+98|1994|Physics|1
+99|1950|Literature|1
+100|1976|Peace|1
+101|1903|Literature|1
+102|2016|Literature|1
+103|1958|Literature|1
+104|1973|Physics|3
+105|2012|Chemistry|2
+106|2011|Physics|2
+107|2011|Physiology or Medicine|1
+108|1984|Chemistry|1
+109|1976|Physics|1
+110|1927|Physics|2
+111|1906|Physiology or Medicine|1
+112|1989|Literature|1
+113|1931|Chemistry|1
+114|1947|Physiology or Medicine|1
+115|1936|Physics|2
+116|1919|Literature|1
+117|1935|Peace|1
+118|2001|Physics|3
+119|1984|Physics|1
+120|1996|Peace|1
+121|1936|Peace|1
+122|2009|Physiology or Medicine|2
+123|1950|Physics|1
+124|1984|Physiology or Medicine|3
+125|1966|Physiology or Medicine|2
+126|1920|Physics|1
+127|1925|Peace|2
+128|1917|Physics|1
+129|1964|Physics|1
+130|1987|Chemistry|3
+131|2009|Physics|1
+132|2020|Physiology or Medicine|3
+133|1928|Physiology or Medicine|1
+134|1913|Physiology or Medicine|1
+135|1957|Physics|1
+136|1929|Physiology or Medicine|1
+137|1972|Chemistry|1
+138|1974|Physiology or Medicine|2
+139|1921|Peace|2
+140|1995|Physiology or Medicine|2
+141|2010|Economic Sciences|3
+142|2011|Economic Sciences|2
+143|1997|Physics|2
+144|1985|Literature|1
+145|1994|Physics|2
+146|1937|Physics|1
+147|2003|Economic Sciences|2
+148|1945|Peace|1
+149|1938|Physiology or Medicine|1
+150|2006|Physiology or Medicine|2
+151|1980|Literature|1
+152|1976|Physiology or Medicine|2
+153|1961|Peace|1
+154|2010|Economic Sciences|2
+155|2011|Chemistry|1
+156|1957|Physiology or Medicine|1
+157|1998|Physics|3
+158|2002|Economic Sciences|1
+159|2000|Economic Sciences|2
+160|1978|Physiology or Medicine|2
+161|1997|Literature|1
+162|1975|Physiology or Medicine|1
+163|1981|Physiology or Medicine|2
+164|2004|Physics|1
+165|2016|Physics|1
+166|2012|Physics|2
+167|1996|Physics|1
+168|1998|Peace|2
+169|2018|Peace|1
+170|1971|Physics|1
+171|1969|Chemistry|1
+172|1992|Literature|1
+173|1984|Peace|1
+174|1956|Physiology or Medicine|3
+175|2019|Physics|3
+176|1960|Physics|1
+177|1987|Chemistry|1
+178|2018|Physics|3
+179|2007|Literature|1
+180|1964|Chemistry|1
+181|1996|Physics|2
+182|1993|Economic Sciences|2
+183|1986|Chemistry|1
+184|1990|Physiology or Medicine|2
+185|1952|Physics|2
+186|1971|Physiology or Medicine|1
+187|1932|Physiology or Medicine|2
+188|1992|Physiology or Medicine|1
+189|2006|Economic Sciences|1
+190|1907|Chemistry|1
+191|2014|Physiology or Medicine|3
+192|1943|Physiology or Medicine|2
+193|1995|Physiology or Medicine|1
+194|1950|Physiology or Medicine|1
+195|2004|Economic Sciences|2
+196|1958|Physiology or Medicine|2
+197|1947|Physics|1
+198|1992|Physiology or Medicine|2
+199|1951|Chemistry|1
+200|1949|Physiology or Medicine|2
+201|2010|Chemistry|2
+202|1974|Peace|2
+203|2004|Literature|1
+204|1981|Literature|1
+205|1990|Chemistry|1
+206|1902|Peace|1
+207|1986|Peace|1
+208|1912|Peace|1
+209|2009|Economic Sciences|1
+210|2009|Physiology or Medicine|1
+211|2011|Peace|1
+212|1902|Chemistry|1
+213|1901|Physiology or Medicine|1
+214|1959|Physics|1
+215|1946|Peace|1
+216|2020|Chemistry|1
+217|1938|Physics|1
+218|2014|Chemistry|1
+219|2001|Physics|1
+220|1995|Physiology or Medicine|3
+221|2000|Physiology or Medicine|3
+222|2007|Economic Sciences|2
+223|1931|Literature|1
+224|1954|Literature|1
+225|1939|Physics|1
+226|1908|Chemistry|1
+227|1951|Physics|2
+228|1907|Peace|1
+229|1945|Physiology or Medicine|2
+230|1973|Chemistry|1
+231|1986|Physics|1
+232|1991|Physiology or Medicine|1
+233|1933|Physics|1
+234|2019|Economic Sciences|2
+235|2013|Economic Sciences|1
+236|1936|Literature|1
+237|1963|Physics|1
+238|1975|Literature|1
+239|2012|Peace|1
+240|1974|Literature|1
+241|2016|Physics|2
+242|1995|Chemistry|3
+243|1993|Peace|2
+244|1952|Physics|1
+245|1964|Physiology or Medicine|2
+246|1909|Physics|2
+247|1927|Peace|1
+248|1998|Physiology or Medicine|3
+249|2004|Economic Sciences|1
+250|2018|Chemistry|1
+251|1962|Physiology or Medicine|1
+252|1922|Chemistry|1
+253|1985|Economic Sciences|1
+254|2013|Physics|1
+255|1965|Physiology or Medicine|1
+256|1952|Literature|1
+257|2008|Physiology or Medicine|2
+258|1929|Peace|1
+259|2004|Physics|3
+260|1939|Literature|1
+261|1935|Chemistry|1
+262|1904|Literature|1
+263|1901|Peace|2
+264|1954|Physiology or Medicine|3
+265|1923|Physiology or Medicine|1
+266|1995|Physics|2
+267|1958|Chemistry|1
+268|1980|Chemistry|3
+269|1921|Chemistry|1
+270|1908|Peace|2
+271|1922|Peace|1
+272|1931|Chemistry|2
+273|1974|Economic Sciences|2
+274|1947|Peace|1
+275|1953|Physics|1
+276|1918|Chemistry|1
+277|1953|Physiology or Medicine|2
+278|1923|Chemistry|1
+279|1982|Literature|1
+280|1908|Physics|1
+281|1945|Literature|1
+282|2000|Literature|1
+283|1992|Economic Sciences|1
+284|1973|Chemistry|2
+285|1961|Physiology or Medicine|1
+286|1979|Chemistry|2
+287|2001|Economic Sciences|1
+288|1994|Chemistry|1
+289|1958|Physiology or Medicine|1
+290|1925|Literature|1
+291|1953|Peace|1
+292|1980|Physiology or Medicine|3
+293|1943|Chemistry|1
+294|1974|Physiology or Medicine|3
+295|2009|Physics|3
+296|2006|Physics|2
+297|1988|Physiology or Medicine|3
+298|1934|Physiology or Medicine|1
+299|1982|Economic Sciences|1
+300|2018|Chemistry|2
+301|1937|Physics|2
+302|1967|Chemistry|3
+303|1934|Physiology or Medicine|2
+304|1967|Physiology or Medicine|3
+305|1992|Physics|1
+306|1984|Physiology or Medicine|2
+307|1958|Peace|1
+308|1972|Physiology or Medicine|1
+309|1983|Economic Sciences|1
+310|2018|Physics|2
+311|1999|Physics|1
+312|1986|Physics|2
+313|1939|Physiology or Medicine|1
+314|2007|Chemistry|1
+315|1971|Chemistry|1
+316|1912|Literature|1
+317|1988|Physiology or Medicine|2
+318|1947|Physiology or Medicine|2
+319|1963|Literature|1
+320|1906|Literature|1
+321|1963|Chemistry|2
+322|1951|Chemistry|2
+323|1979|Physiology or Medicine|2
+324|2006|Peace|2
+325|1926|Literature|1
+326|2019|Physiology or Medicine|3
+327|1909|Physics|1
+328|1974|Economic Sciences|1
+329|1999|Physiology or Medicine|1
+330|1999|Literature|1
+331|1912|Physics|1
+332|1925|Physics|2
+333|1926|Peace|2
+334|2004|Physics|2
+335|1968|Physiology or Medicine|2
+336|2002|Physiology or Medicine|2
+337|1955|Literature|1
+338|1978|Physiology or Medicine|3
+339|1970|Physics|1
+340|1967|Physics|1
+341|1930|Chemistry|1
+342|1989|Physics|2
+343|1953|Physiology or Medicine|1
+344|1935|Physiology or Medicine|1
+345|1929|Chemistry|2
+346|2008|Physiology or Medicine|1
+347|1934|Chemistry|1
+348|1989|Physiology or Medicine|2
+349|2005|Literature|1
+350|1990|Economic Sciences|1
+351|1974|Literature|2
+352|1988|Chemistry|3
+353|2020|Physiology or Medicine|1
+354|1913|Physics|1
+355|1972|Literature|1
+356|1986|Physics|3
+357|1927|Chemistry|1
+358|1902|Physics|1
+359|1903|Physics|1
+360|1927|Literature|1
+361|1913|Peace|1
+362|1906|Chemistry|1
+363|1943|Physiology or Medicine|1
+364|1917|Literature|2
+365|1901|Peace|1
+366|1973|Peace|1
+367|1983|Chemistry|1
+368|1990|Physics|2
+369|1905|Literature|1
+370|1985|Chemistry|1
+371|1979|Chemistry|1
+372|2000|Physics|2
+373|1944|Physiology or Medicine|2
+374|1978|Economic Sciences|1
+375|1946|Literature|1
+376|1946|Physiology or Medicine|1
+377|1953|Chemistry|1
+378|2009|Literature|1
+379|2000|Chemistry|3
+380|1949|Physics|1
+381|2014|Physics|2
+382|1921|Peace|1
+383|1998|Physics|2
+384|1975|Physiology or Medicine|3
+385|1955|Physiology or Medicine|1
+386|1958|Physics|3
+387|1958|Physics|2
+388|1908|Physiology or Medicine|1
+389|1977|Chemistry|1
+390|2002|Literature|1
+391|1904|Peace|1
+392|2007|Peace|1
+393|2005|Peace|1
+394|2017|Peace|1
+395|1997|Peace|1
+396|1917|Peace|1
+397|1944|Peace|1
+398|1963|Peace|1
+399|1969|Peace|1
+400|1985|Peace|1
+401|1935|Chemistry|2
+402|1932|Chemistry|1
+403|2004|Chemistry|3
+404|1978|Literature|1
+405|2014|Physics|1
+406|1944|Physics|1
+407|1933|Literature|1
+408|1904|Physiology or Medicine|1
+409|1973|Physics|2
+410|1961|Literature|1
+411|1987|Physics|1
+412|1963|Physics|3
+413|2003|Literature|1
+414|1989|Physiology or Medicine|1
+415|2016|Physics|3
+416|2005|Physiology or Medicine|2
+417|1906|Physics|1
+418|1922|Literature|1
+419|2000|Physics|3
+420|1988|Physics|3
+421|2009|Physiology or Medicine|3
+422|1901|Chemistry|1
+423|2017|Chemistry|1
+424|1965|Physiology or Medicine|3
+425|1996|Economic Sciences|1
+426|1946|Chemistry|1
+427|1935|Physics|1
+428|1980|Physics|1
+429|1977|Economic Sciences|2
+430|2013|Physiology or Medicine|1
+431|1925|Physics|1
+432|2000|Economic Sciences|1
+433|1986|Economic Sciences|1
+434|2018|Physiology or Medicine|1
+435|2019|Physics|1
+436|1975|Physics|3
+437|1981|Economic Sciences|1
+438|1962|Physiology or Medicine|2
+439|1969|Economic Sciences|2
+440|1931|Peace|1
+441|1959|Chemistry|1
+442|1984|Literature|1
+443|1926|Physics|1
+444|1980|Physiology or Medicine|2
+445|2014|Economic Sciences|1
+446|2008|Literature|1
+447|1987|Chemistry|2
+448|1964|Literature|1
+449|2016|Chemistry|1
+450|2017|Physiology or Medicine|1
+451|2020|Chemistry|2
+452|1997|Chemistry|3
+453|1990|Physics|1
+454|1985|Chemistry|2
+455|2002|Peace|1
+456|2017|Chemistry|2
+457|1997|Peace|2
+458|1988|Chemistry|1
+459|1910|Physics|1
+460|1926|Physiology or Medicine|1
+461|1919|Physics|1
+462|1944|Literature|1
+463|2002|Chemistry|1
+464|2019|Chemistry|1
+465|1956|Physics|2
+466|1972|Physics|1
+467|1994|Economic Sciences|1
+468|1962|Chemistry|2
+469|2006|Physics|1
+470|1986|Chemistry|3
+471|1951|Physics|1
+472|1975|Chemistry|1
+473|2002|Physiology or Medicine|3
+474|1997|Chemistry|2
+475|1954|Physiology or Medicine|1
+476|1994|Economic Sciences|2
+477|1932|Literature|1
+478|1946|Chemistry|2
+479|1977|Physics|3
+480|1998|Peace|1
+481|2005|Physics|2
+482|1923|Physiology or Medicine|2
+483|2014|Physiology or Medicine|1
+484|1998|Chemistry|2
+485|1972|Economic Sciences|1
+486|1946|Peace|2
+487|1982|Physiology or Medicine|3
+488|1962|Literature|1
+489|1904|Literature|2
+490|1996|Peace|2
+491|1998|Literature|1
+492|1987|Literature|1
+493|1990|Physiology or Medicine|1
+494|2001|Economic Sciences|3
+495|1944|Physiology or Medicine|1
+496|1993|Physics|2
+497|1985|Physiology or Medicine|2
+498|1995|Peace|1
+499|1958|Physiology or Medicine|3
+500|2016|Peace|1
+501|1956|Literature|1
+502|2011|Physiology or Medicine|2
+503|1919|Physiology or Medicine|1
+504|1965|Physics|2
+505|1970|Physiology or Medicine|3
+506|1927|Physiology or Medicine|1
+507|1987|Physics|2
+508|1981|Physics|3
+509|2014|Peace|1
+510|1917|Literature|1
+511|1930|Physiology or Medicine|1
+512|1973|Physiology or Medicine|1
+513|1963|Chemistry|1
+514|1993|Chemistry|1
+515|2017|Literature|1
+516|1967|Physiology or Medicine|2
+517|1981|Chemistry|1
+518|1982|Physics|1
+519|1972|Economic Sciences|2
+520|1994|Literature|1
+521|2000|Peace|1
+522|2017|Physics|3
+523|1908|Peace|1
+524|1985|Physics|1
+525|1920|Literature|1
+526|2001|Peace|2
+527|2002|Chemistry|2
+528|1964|Physiology or Medicine|1
+529|1973|Physiology or Medicine|2
+530|2010|Physics|2
+531|1950|Chemistry|2
+532|2002|Chemistry|3
+533|1968|Chemistry|1
+534|2013|Economic Sciences|2
+535|1915|Physics|2
+536|1980|Economic Sciences|1
+537|1973|Peace|2
+538|1963|Peace|2
+539|1983|Peace|1
+540|2001|Physiology or Medicine|1
+541|1973|Physics|1
+542|1920|Peace|1
+543|1951|Peace|1
+544|1988|Physics|1
+545|1972|Physics|2
+546|2007|Economic Sciences|1
+547|1975|Economic Sciences|1
+548|1939|Chemistry|2
+549|1957|Peace|1
+550|1962|Physics|1
+551|2011|Peace|2
+552|2004|Physiology or Medicine|2
+553|1962|Peace|1
+554|1954|Chemistry|1
+555|2010|Peace|1
+556|2012|Economic Sciences|2
+557|1949|Peace|1
+558|1904|Physics|1
+559|1957|Chemistry|1
+560|1929|Physics|1
+561|1998|Physiology or Medicine|2
+562|1970|Physics|2
+563|1907|Peace|2
+564|2020|Literature|1
+565|2008|Physiology or Medicine|3
+566|1927|Peace|2
+567|1934|Literature|1
+568|1968|Physics|1
+569|1970|Chemistry|1
+570|2019|Chemistry|2
+571|1976|Peace|2
+572|2008|Physics|2
+573|2014|Peace|2
+574|1967|Chemistry|1
+575|1924|Physics|1
+576|1963|Physics|2
+577|1903|Physics|3
+578|1911|Chemistry|1
+579|1995|Chemistry|2
+580|2007|Physiology or Medicine|1
+581|2010|Literature|1
+582|1968|Physiology or Medicine|3
+583|2008|Chemistry|2
+584|2013|Chemistry|1
+585|1995|Physics|1
+586|1964|Peace|1
+587|1994|Physiology or Medicine|2
+588|1974|Physics|1
+589|1999|Physics|2
+590|2008|Peace|1
+591|2002|Physics|2
+592|1988|Economic Sciences|1
+593|1911|Literature|1
+594|1962|Physiology or Medicine|3
+595|1954|Physics|1
+596|1969|Physiology or Medicine|1
+597|1962|Chemistry|1
+598|1918|Physics|1
+599|1951|Physiology or Medicine|1
+600|1914|Physics|1
+601|2014|Physiology or Medicine|2
+602|1999|Peace|1
+603|1961|Chemistry|1
+604|1988|Physics|2
+605|1978|Peace|2
+606|1990|Economic Sciences|2
+607|2020|Physiology or Medicine|2
+608|2019|Economic Sciences|3
+609|2013|Chemistry|2
+610|2017|Physiology or Medicine|2
+611|1985|Physiology or Medicine|1
+612|1993|Chemistry|2
+613|2017|Physiology or Medicine|3
+614|2019|Physics|2
+615|1967|Literature|1
+616|1990|Peace|1
+617|1965|Literature|1
+618|1976|Economic Sciences|1
+619|2012|Literature|1
+620|2005|Peace|2
+621|1979|Peace|1
+622|2006|Peace|1
+623|1969|Physics|1
+624|1997|Economic Sciences|2
+625|2018|Peace|2
+626|1991|Literature|1
+627|1988|Literature|1
+628|1938|Peace|1
+629|1930|Peace|1
+630|2015|Peace|1
+631|1966|Literature|2
+632|1993|Peace|1
+633|1931|Peace|2
+634|1981|Physics|1
+635|1964|Physics|2
+636|1922|Physics|1
+637|1984|Physiology or Medicine|1
+638|1903|Physiology or Medicine|1
+639|1973|Physiology or Medicine|3
+640|1956|Chemistry|2
+641|1970|Peace|1
+642|1989|Physics|1
+643|1937|Chemistry|1
+644|1990|Literature|1
+645|1969|Chemistry|2
+646|1979|Literature|1
+647|1954|Peace|1
+648|1981|Peace|1
+649|2018|Literature|1
+650|2009|Economic Sciences|2
+651|2016|Economic Sciences|1
+652|2007|Physiology or Medicine|3
+653|2013|Peace|1
+654|2006|Literature|1
+655|2008|Chemistry|1
+656|1987|Peace|1
+657|1950|Chemistry|1
+658|1944|Chemistry|1
+659|1936|Physiology or Medicine|2
+660|1922|Physiology or Medicine|2
+661|1943|Physics|1
+662|1910|Chemistry|1
+663|1931|Physiology or Medicine|1
+664|1959|Physics|2
+665|1928|Physics|1
+666|1971|Literature|1
+667|1951|Literature|1
+668|1948|Physics|1
+669|2014|Literature|1
+670|1973|Literature|1
+671|1970|Economic Sciences|1
+672|1933|Physics|2
+673|1980|Chemistry|1
+674|2003|Physiology or Medicine|1
+675|1997|Chemistry|1
+676|1908|Physiology or Medicine|2
+677|2000|Physiology or Medicine|2
+678|1909|Peace|2
+679|1910|Literature|1
+680|1995|Chemistry|1
+681|1974|Chemistry|1
+682|1937|Chemistry|2
+683|2008|Economic Sciences|1
+684|2018|Economic Sciences|2
+685|2015|Chemistry|2
+686|1948|Physiology or Medicine|1
+687|2020|Economic Sciences|1
+688|1912|Chemistry|2
+689|1958|Physics|1
+690|1938|Literature|1
+691|1946|Physics|1
+692|1910|Peace|1
+693|2010|Economic Sciences|1
+694|2003|Chemistry|1
+695|1996|Physiology or Medicine|1
+696|1936|Chemistry|1
+697|2007|Physics|2
+698|2019|Literature|1
+699|2013|Physics|2
+700|1960|Physiology or Medicine|2
+701|1978|Chemistry|1
+702|1966|Physiology or Medicine|1
+703|1959|Peace|1
+704|1950|Physiology or Medicine|3
+705|1977|Physics|1
+706|1905|Physics|1
+707|1993|Physiology or Medicine|2
+708|1903|Physics|2
+709|1991|Physics|1
+710|1902|Physics|2
+711|1955|Physics|2
+712|1995|Peace|2
+713|1978|Physics|1
+714|1913|Literature|1
+715|1969|Economic Sciences|1
+716|1967|Physiology or Medicine|1
+717|2017|Physics|1
+718|1950|Peace|1
+719|2011|Physiology or Medicine|3
+720|1903|Peace|1
+721|2013|Physiology or Medicine|2
+722|2002|Physics|1
+723|2020|Physics|2
+724|1994|Economic Sciences|3
+725|1975|Physiology or Medicine|2
+726|1968|Peace|1
+727|2002|Physics|3
+728|2004|Physiology or Medicine|1
+729|1996|Chemistry|3
+730|1990|Physics|3
+731|2010|Chemistry|1
+732|2017|Economic Sciences|1
+733|2017|Chemistry|3
+734|1993|Physiology or Medicine|1
+735|1938|Chemistry|1
+736|1952|Chemistry|2
+737|1965|Physics|3
+738|1991|Chemistry|1
+739|2005|Chemistry|3
+740|1984|Economic Sciences|1
+741|1915|Chemistry|1
+742|1925|Chemistry|1
+743|1992|Peace|1
+744|1986|Physiology or Medicine|2
+745|1981|Chemistry|2
+746|1923|Physics|1
+747|1998|Physics|1
+748|2020|Economic Sciences|2
+749|1965|Chemistry|1
+750|1914|Physiology or Medicine|1
+751|1997|Economic Sciences|1
+752|1996|Physics|3
+753|1937|Peace|1
+754|1995|Economic Sciences|1
+755|1996|Chemistry|1
+756|2003|Economic Sciences|1
+757|1998|Physiology or Medicine|1
+758|2010|Physiology or Medicine|1
+759|2005|Chemistry|2
+760|1961|Physics|1
+761|1988|Chemistry|2
+762|2005|Economic Sciences|1
+763|2012|Chemistry|1
+764|2013|Economic Sciences|3
+765|1905|Physiology or Medicine|1
+766|1987|Economic Sciences|1
+767|1999|Economic Sciences|1
+768|1966|Chemistry|1
+769|1972|Physics|3
+770|1993|Economic Sciences|1
+771|1968|Physiology or Medicine|1
+772|1978|Physics|3
+773|2003|Chemistry|2
+774|1972|Physiology or Medicine|2
+775|2007|Economic Sciences|3
+776|2006|Chemistry|1
+777|1977|Physiology or Medicine|1
+778|1937|Literature|1
+779|2020|Physics|1
+780|1981|Physiology or Medicine|1
+781|2008|Chemistry|3
+782|1996|Physiology or Medicine|2
+783|1915|Literature|1
+784|1967|Chemistry|2
+785|1991|Economic Sciences|1
+786|1902|Physiology or Medicine|1
+787|1977|Physiology or Medicine|3
+788|2005|Physics|1
+789|1908|Literature|1
+790|1961|Physics|2
+791|1992|Chemistry|1
+792|1907|Literature|1
+793|1993|Physics|1
+794|2001|Chemistry|2
+795|1960|Literature|1
+796|1969|Physiology or Medicine|3
+797|1959|Literature|1
+798|1969|Literature|1
+799|1976|Physics|2
+800|1906|Physiology or Medicine|2
+801|2015|Physiology or Medicine|2
+802|1976|Literature|1
+803|2011|Physics|1
+804|1995|Literature|1
+805|1974|Peace|1
+806|1909|Literature|1
+807|1952|Physiology or Medicine|1
+808|2012|Physics|1
+809|1959|Physiology or Medicine|1
+810|1979|Physics|1
+811|1994|Peace|2
+812|2012|Physiology or Medicine|2
+813|2003|Peace|1
+814|1966|Literature|1
+815|2014|Physics|3
+816|1989|Chemistry|1
+817|1928|Literature|1
+818|1971|Economic Sciences|1
+819|1984|Physics|2
+820|1965|Physics|1
+821|1930|Literature|1
+822|1945|Physiology or Medicine|1
+823|1979|Economic Sciences|2
+824|1925|Peace|1
+825|1970|Physiology or Medicine|1
+826|1930|Physics|1
+827|1932|Physiology or Medicine|1
+828|1956|Chemistry|1
+829|1960|Physiology or Medicine|1
+830|1929|Physiology or Medicine|2
+831|2018|Chemistry|3
+832|1996|Chemistry|2
+833|1936|Physiology or Medicine|1
+834|1945|Physiology or Medicine|3
+835|2016|Chemistry|2
+836|1988|Physiology or Medicine|1
+837|2012|Physiology or Medicine|1
+838|1963|Physiology or Medicine|1
+839|2007|Physiology or Medicine|2
+840|1977|Physics|2
+841|1933|Peace|1
+842|2001|Physiology or Medicine|3
+843|2019|Physiology or Medicine|2
+844|2003|Physiology or Medicine|2
+845|1947|Chemistry|1
+846|1904|Chemistry|1
+847|1972|Chemistry|2
+848|1997|Physiology or Medicine|1
+849|1986|Physiology or Medicine|1
+850|2014|Chemistry|2
+851|1997|Physics|1
+852|1979|Physics|3
+853|1983|Physics|1
+854|1901|Literature|1
+855|1982|Physiology or Medicine|1
+856|1987|Physiology or Medicine|1
+857|1903|Chemistry|1
+858|2015|Literature|1
+859|2002|Physiology or Medicine|1
+860|1948|Literature|1
+861|1950|Physiology or Medicine|2
+862|2015|Physics|1
+863|2018|Physiology or Medicine|2
+864|2011|Peace|3
+865|1989|Peace|1
+866|1926|Chemistry|1
+867|1909|Physiology or Medicine|1
+868|1902|Literature|1
+869|2005|Physics|3
+870|1906|Peace|1
+871|1914|Chemistry|1
+872|1979|Economic Sciences|1
+873|2009|Chemistry|2
+874|2005|Economic Sciences|2
+875|2013|Physiology or Medicine|3
+876|1933|Physiology or Medicine|1
+877|1954|Physiology or Medicine|2
+878|2011|Economic Sciences|1
+879|1929|Literature|1
+880|1989|Chemistry|2
+881|2001|Physiology or Medicine|2
+882|1975|Economic Sciences|2
+883|1911|Peace|1
+884|2015|Chemistry|1
+885|2011|Literature|1
+886|1993|Literature|1
+887|1981|Physiology or Medicine|3
+888|2008|Physics|3
+889|1989|Economic Sciences|1
+890|1957|Physics|2
+891|2015|Physiology or Medicine|3
+892|1970|Physiology or Medicine|2
+893|2001|Peace|1
+894|1965|Peace|1
+895|1988|Peace|1
+896|2001|Literature|1
+897|1980|Physics|2
+898|2009|Chemistry|1
+899|1916|Literature|1
+900|2002|Economic Sciences|2
+901|1977|Literature|1
+902|1936|Physics|1
+903|1912|Chemistry|1
+904|1955|Chemistry|1
+905|2003|Physics|2
+906|1975|Chemistry|2
+907|1980|Chemistry|2
+908|1956|Physics|3
+909|1949|Physiology or Medicine|1
+910|1998|Chemistry|1
+911|1954|Physics|2
+912|1920|Chemistry|1
+913|2004|Peace|1
+914|1973|Economic Sciences|1
+915|1946|Chemistry|3
+916|1978|Physiology or Medicine|1
+917|1956|Physiology or Medicine|2
+918|1932|Physics|1
+919|1901|Physics|1
+920|1909|Chemistry|1
+921|1911|Physics|1
+922|1960|Chemistry|1
+923|2009|Physics|2
+924|1924|Physiology or Medicine|1
+925|1983|Physics|2
+926|1956|Physics|1
+927|1915|Physics|1
+928|1923|Literature|1
+929|2015|Physiology or Medicine|1
+930|2018|Economic Sciences|1
+931|1997|Physics|3
+932|2014|Chemistry|3
+933|1949|Chemistry|1
+934|1990|Economic Sciences|3
+935|1949|Literature|1
+936|2019|Physiology or Medicine|1
+937|1983|Literature|1
+938|1972|Chemistry|3
+939|2001|Chemistry|1
+940|1976|Chemistry|1
+941|1934|Physiology or Medicine|3
+942|1996|Economic Sciences|2
+943|1955|Physics|1
+944|1971|Peace|1
+945|1953|Literature|1
+946|1996|Literature|1
+947|1924|Literature|1
+948|1986|Literature|1
+949|2001|Physics|2
+950|1989|Physics|3
+951|1945|Physics|1
+952|1919|Peace|1
+953|2020|Peace|1
+954|1994|Peace|1
+955|1968|Literature|1
+956|1994|Peace|3
+957|2008|Physics|1
+958|2016|Physiology or Medicine|1
+959|1986|Chemistry|2
+960|2005|Chemistry|1
+961|2000|Physics|1

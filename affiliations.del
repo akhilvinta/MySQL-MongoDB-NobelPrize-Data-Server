@@ -1,0 +1,354 @@
+0|Stanford University|Stanford, CA|USA
+1|Niels Bohr Institute|Copenhagen|Denmark
+2|Technion - Israel Institute of Technology|Haifa|Israel
+3|MRC Laboratory of Molecular Biology|Cambridge|United Kingdom
+4|International Centre for Theoretical Physics|Trieste|Italy
+5|Imperial College|London|United Kingdom
+6|Massachusetts Institute of Technology (MIT)|Cambridge, MA|USA
+7|Weizmann Institute of Science|Rehovot|Israel
+8|Johns Hopkins University|Baltimore, MD|USA
+9|Space Telescope Science Institute|Baltimore, MD|USA
+10|Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Biochemie|Berlin-Dahlem|Germany
+11|Berlin University|Berlin|Germany
+12|Munich University|Munich|Germany
+13|Goettingen University|Göttingen|Germany
+14|California Institute of Technology (Caltech)|Pasadena, CA|USA
+15|Hokkaido University|Sapporo|Japan
+16|Asahi Kasei Corporation|Tokyo|Japan
+17|Meijo University|Nagoya|Japan
+18|University of California|Santa Barbara, CA|USA
+19|University of Cambridge|Cambridge|United Kingdom
+20|University of Pennsylvania|Philadelphia, PA|USA
+21|University of Chicago|Chicago, IL|USA
+22|Université Catholique de Louvain|Louvain|Belgium
+23|Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Physik|Berlin|Germany
+24|Universit&eacute; Paris-Sud|Orsay|France
+25|Unit&eacute; Mixte de Physique CNRS/THALES|Orsay|France
+26|Szeged University|Szeged|Hungary
+27|University of Heidelberg|Heidelberg|Germany
+28|P.N. Lebedev Physical Institute|Moscow|USSR
+29|Argonne National Laboratory|Argonne, IL|USA
+30|Rockefeller Institute for Medical Research|New York, NY|USA
+31|Carnegie Institution of Washington|Long Island, New York, NY|USA
+32|University of Texas Southwestern Medical Center at Dallas|Dallas, TX|USA
+33|École Normale Supérieure|Paris|France
+34|University of Zurich|Zurich|Switzerland
+35|Tufts University|Medford, MA|USA
+36|Uppsala University|Uppsala|Sweden
+37|Institut Pasteur|Paris|France
+38|Harvard University|Cambridge, MA|USA
+39|Harvard Business School|Boston, MA|USA
+40|Trinity College|Cambridge|United Kingdom
+41|Columbia University Division, Cardio-Pulmonary Laboratory, Bellevue Hospital|New York, NY|USA
+42|University of Manchester|Manchester|United Kingdom
+43|University of California|Los Angeles, CA|USA
+44|University College|London|United Kingdom
+45|Veterans Administration Hospital|New Orleans, LA|USA
+46|Stanford University School of Medicine|Stanford, CA|USA
+47|Princeton University|Princeton, NJ|USA
+48|University of Illinois|Urbana, IL|USA
+49|National Institute for Medical Research|London|United Kingdom
+50|London University|London|United Kingdom
+51|University of Southern California|Los Angeles, CA|USA
+52|Bell Laboratories|Holmdel, NJ|USA
+53|Queen's University|Kingston|Canada
+54|University of Helsinki|Helsinki|Finland
+55|Göteborg University|Gothenburg|Sweden
+56|Copenhagen University|Copenhagen|Denmark
+57|University of North Carolina|Chapel Hill, NC|USA
+58|Cold Spring Harbor Laboratory|Cold Spring Harbor, NY|USA
+59|LIGO/VIRGO Collaboration|\N|\N
+60|NHMRC Helicobacter pylori Research Laboratory, QEII Medical Centre|Nedlands|Australia
+61|University of Western Australia|Perth|Australia
+62|The Scripps Research Institute|La Jolla, CA|USA
+63|The Institute for Cancer Research|Philadelphia, PA|USA
+64|Harvard Medical School|Boston, MA|USA
+65|Nordita|Copenhagen|Denmark
+66|Karolinska Institutet|Stockholm|Sweden
+67|University of Groningen|Groningen|the Netherlands
+68|Instituto de Biologia y Medicina Experimental (Institute for Biology and Experimental Medicine)|Buenos Aires|Argentina
+69|Max-Planck-Institut für medizinische Forschung|Heidelberg|Germany
+70|Stockholm School of Economics|Stockholm|Sweden
+71|McMaster University|Hamilton, Ontario|Canada
+72|Australian National University|Weston Creek|Australia
+73|Rockefeller University|New York, NY|USA
+74|Stanford Linear Accelerator Center|Stanford, CA|USA
+75|Pavia University|Pavia|Italy
+76|I.G. Farbenindustrie A.G.|Heidelberg|Germany
+77|Washington University|St. Louis, MO|USA
+78|University of Colorado, JILA|Boulder, CO|USA
+79|CERN|Geneva|Switzerland
+80|Johns Hopkins University School of Medicine|Baltimore, MD|USA
+81|Bristol University|Bristol|United Kingdom
+82|University of Chicago, Ben May Laboratory for Cancer Research|Chicago, IL|USA
+83|Bureau International des Poids et Mesures (International Bureau of Weights and Measures)|Sèvres|France
+84|Edinburgh University|Edinburgh|United Kingdom
+85|Du Pont|Wilmington, DE|USA
+86|Standard Telecommunication Laboratories|Harlow|United Kingdom
+87|Chinese University of Hong Kong|Hong Kong|China
+88|Institut Pasteur|Tunis|Tunisia
+89|Sorbonne University|Paris|France
+90|Institute for Advanced Study|Princeton, NJ|USA
+91|Utrecht University|Utrecht|the Netherlands
+92|National Institutes of Health|Bethesda, MD|USA
+93|Max-Planck-Institut für Entwicklungsbiologie|Tübingen|Germany
+94|London School of Economics and Political Science|London|United Kingdom
+95|Collège de France|Paris|France
+96|Bell Telephone Laboratories|New York, NY|USA
+97|University of California|San Diego, CA|USA
+98|Ghent University|Ghent|Belgium
+99|University of Massachusetts Medical School|Worcester, MA|USA
+100|Northwestern University|Evanston, IL|USA
+101|Aarhus University|Aarhus|Denmark
+102|Istituto Superiore di Sanità (Chief Institute of Public Health)|Rome|Italy
+103|University of California|Berkeley, CA|USA
+104|University of California, Kavli Institute for Theoretical Physics|Santa Barbara, CA|USA
+105|University of Washington|Seattle, WA|USA
+106|National Institute of Standards and Technology|Boulder, CO|USA
+107|University of Colorado|Boulder, CO|USA
+108|Cornell University|Ithaca, NY|USA
+109|Columbia University|New York, NY|USA
+110|University of Geneva|Geneva|Switzerland
+111|University of Waterloo|Waterloo|Canada
+112|University of Oxford, Royal Society|Oxford|United Kingdom
+113|Fred Hutchinson Cancer Research Center|Seattle, WA|USA
+114|Vanderbilt University|Nashville, TN|USA
+115|Landwirtschaftliche Hochschule (Agricultural College)|Berlin|Germany
+116|Norwegian University of Science and Technology (NTNU)|Trondheim|Norway
+117|Saint Louis University|St. Louis, MO|USA
+118|Mayo Clinic|Rochester, MN|USA
+119|Arizona State University|Tempe, AZ|USA
+120|Federal Reserve Bank of Minneapolis|Minneapolis, MN|USA
+121|Department of Scientific and Industrial Research|London|United Kingdom
+122|University of Lisbon|Lisbon|Portugal
+123|Neurological Institute|Lisbon|Portugal
+124|Purdue University|West Lafayette, IN|USA
+125|Indiana University|Bloomington, IN|USA
+126|University of California|San Francisco, CA|USA
+127|Marburg University|Marburg|Germany
+128|Max Planck Unit for the Science of Pathogens|Berlin|Germany
+129|Rome University|Rome|Italy
+130|Janelia Research Campus, Howard Hughes Medical Institute|Ashburn, VA|USA
+131|Victoria University|Manchester|United Kingdom
+132|Trinity College|Dublin|Ireland
+133|University of Oxford|Oxford|United Kingdom
+134|Technical University|Munich|Germany
+135|Fritz-Haber-Institut der Max-Planck-Gesellschaft|Berlin|Germany
+136|Max-Planck-Institut für Biophysikalische Chemie|Göttingen|Germany
+137|University of California|Irvine, CA|USA
+138|Max-Planck-Institut für Zellchemie|Munich|Germany
+139|Strasbourg University|Strasbourg|Germany
+140|University of Texas Medical School at Houston|Houston, TX|USA
+141|Carnegie Mellon University|Pittsburgh, PA|USA
+142|Université Libre de Bruxelles|Brussels|Belgium
+143|Regulation of Retroviral Infections Unit, Virology Department, Institut Pasteur|Paris|France
+144|Institut du Radium|Paris|France
+145|Western Reserve University|Cleveland, OH|USA
+146|University of Toronto|Toronto|Canada
+147|I.G. Farbenindustrie A.G.|Mannheim-Rheinau|Germany
+148|Groningen University|Groningen|the Netherlands
+149|Kaiser-Wilhelm-Institut (now Fritz-Haber-Institut) für physikalische Chemie und Electrochemie|Berlin-Dahlem|Germany
+150|Massachusetts General Hospital|Boston, MA|USA
+151|Graz University|Graz|Austria
+152|Jackson Laboratory|Bar Harbor, ME|USA
+153|Stockholm University|Stockholm|Sweden
+154|Yale University, School of Medicine|New Haven, CT|USA
+155|Bell Laboratories|Murray Hill, NJ|USA
+156|Wellcome Research Laboratories|Research Triangle Park, NC|USA
+157|University of Rochester|Rochester, NY|USA
+158|University of Missouri|Columbia|USA
+159|Royal Institution of Great Britain|London|United Kingdom
+160|École Supérieure de Physique et Chimie|Paris|France
+161|Basel Institute for Immunology|Basel|Switzerland
+162|École Polytechnique|Palaiseau|France
+163|University of Michigan|Ann Arbor, MI|USA
+164|IBM Zurich Research Laboratory|Rüschlikon|Switzerland
+165|Munster University|Munster|Germany
+166|National Research Council of Canada|Ottawa|Canada
+167|Institute of Technology|Milan|Italy
+168|Central Research Laboratories, EMI|London|United Kingdom
+169|Marconi Wireless Telegraph Co. Ltd.|London|United Kingdom
+170|Howard Hughes Medical Institute|\N|\N
+171|Swedish Gas-Accumulator Co.|Lidingö, Stockholm|Sweden
+172|Halle University|Halle|Germany
+173|University of Wisconsin|Madison, WI|USA
+174|Royal Institute of Technology|Stockholm|Sweden
+175|Technische Hochschule (Institute of Technology)|Munich|Germany
+176|Sheffield University|Sheffield|United Kingdom
+177|University of Freiburg im Breisgau|Breisgau|Germany
+178|German Cancer Research Center|Heidelberg|Germany
+179|University of California School of Medicine|San Francisco, CA|USA
+180|City University of New York|New York, NY|USA
+181|Max-Planck-Institut für Biophysik|Frankfurt-on-the-Main|Germany
+182|Leiden University|Leiden|the Netherlands
+183|École Polytechnique|Paris|France
+184|Polytechnic Institute|Copenhagen|Denmark
+185|The Medical Foundation of Buffalo|Buffalo, NY|USA
+186|University of Freiburg|Breisgau|Germany
+187|Staatliches Institut für makromolekulare Chemie (State Research Institute for Macromolecular Chemistry), Freiburg|Breisgau|Germany
+188|University of Tsukuba|Tokyo|Japan
+189|Kyoto Imperial University|Kyoto|Japan
+190|Nagoya University|Nagoya|Japan
+191|Karolinska Institutet, Nobel Medical Institute|Stockholm|Sweden
+192|Lomonosov Moscow State University|Moscow|USSR
+193|University of Texas|Austin, TX|USA
+194|General Electric Company|Schenectady, NY|USA
+195|Military Medical Academy|St. Petersburg|Russia
+196|Brown University|Providence, RI|USA
+197|Texas Instruments|Dallas, TX|USA
+198|University of Lausanne|Lausanne|Switzerland
+199|Liverpool University|Liverpool|United Kingdom
+200|Yale University|New Haven, CT|USA
+201|Center for Study of Public Choice|Fairfax, VA|USA
+202|Parker Institute for Cancer Immunotherapy|San Francisco, CA|USA
+203|University of Texas MD Anderson Cancer Center|Houston, TX|USA
+204|The Netherlands School of Economics|Rotterdam|the Netherlands
+205|Polarographic Institute of the Czechoslovak Academy of Science|Prague|Czechoslovakia
+206|Université de Paris, Laboratoire Immuno-Hématologie|Paris|France
+207|Toulouse School of Economics (TSE)|Toulouse|France
+208|Université Louis Pasteur|Strasbourg|France
+209|University of Strasbourg|Strasbourg|France
+210|University of Maine|Maine, ME|USA
+211|US Naval Research Laboratory|Washington, DC|USA
+212|Amsterdam University|Amsterdam|the Netherlands
+213|Greifswald University|Greifswald|Germany
+214|Virginia Commonwealth University|Richmond, VA|USA
+215|NASA Goddard Space Flight Center|Greenbelt, MD|USA
+216|Atomic Energy Research Establishment|Harwell, Berkshire|United Kingdom
+217|University of Sussex|Brighton|United Kingdom
+218|The Wellcome Trust Sanger Institute|Cambridge|United Kingdom
+219|Research Division of Infectious Diseases, Children's Medical Center|Boston, MA|USA
+220|Rockefeller Institute for Medical Research|Princeton, NJ|USA
+221|All Souls College|Oxford|United Kingdom
+222|The Wellcome Research Laboratories|Beckenham|United Kingdom
+223|Brigham and Women's Hospital|Boston, MA|USA
+224|Brussels University|Brussels|Belgium
+225|Vienna University|Vienna|Austria
+226|Zoologisches Institut der Universität München|Munich|Germany
+227|Max-Planck-Institut für Kohlenforschung (Max-Planck-Institute for Carbon Research)|Mülheim/Ruhr|Germany
+228|Kyoto University|Kyoto|Japan
+229|Max-Planck-Institut für Festkörperforschung|Stuttgart|Germany
+230|Shimadzu Corp.|Kyoto|Japan
+231|Konrad-Lorenz-Institut der Österreichischen Akademie der Wissen­schaften, Forschungsstelle für Ethologie|Altenberg; Grünau im Almtal|Austria
+232|Cologne University|Cologne|Germany
+233|Eidgenössische Technische Hochschule (Swiss Federal Institute of Technology)|Zurich|Switzerland
+234|IBM Thomas J. Watson Research Center|Yorktown Heights, NY|USA
+235|Fermi National Accelerator Laboratory|Batavia, IL|USA
+236|University of Minnesota|Minneapolis, MN|USA
+237|Academy of Sciences|Moscow|USSR
+238|Sorbonne University, Institut Henri Poincaré|Paris|France
+239|University of California School of Medicine|Los Angeles, CA|USA
+240|University of Grenoble|Grenoble|France
+241|World Foundation for AIDS Research and Prevention|Paris|France
+242|Institute for Biochemical Research|Buenos Aires|Argentina
+243|Binghamton University, State University of New York|New York, NY|USA
+244|High Energy Accelerator Research Organization (KEK)|Tsukuba|Japan
+245|Max-Planck-Institut für Physikalische Chemie|Göttingen|Germany
+246|University of Utah|Salt Lake City, UT|USA
+247|Université de Strasbourg|Strasbourg|France
+248|National Institute of Environmental Health Sciences|Research Triangle Park, NC|USA
+249|University of Tokyo|Tokyo|Japan
+250|École Nationale Supérieur des Mines de Paris|Paris|France
+251|Laboratories of the Division of Medicine and Public Health, Rockefeller Foundation|New York, NY|USA
+252|Frankfurt-on-the-Main University|Frankfurt-on-the-Main|Germany
+253|Digital Pathways, Inc.|Mountain View, CA|USA
+254|University of Alberta|Edmonton|Canada
+255|Brandeis University|Waltham, MA|USA
+256|University of British Columbia|Vancouver|Canada
+257|Long Term Capital Management|Greenwich, CT|USA
+258|Finsen Medical Light Institute|Copenhagen|Denmark
+259|Institute for Chemical Physics of the Academy of Sciences of the USSR|Moscow|USSR
+260|Birmingham University|Birmingham|United Kingdom
+261|University of Oslo|Oslo|Norway
+262|Marine Biological Laboratory (MBL)|Woods Hole, MA|USA
+263|Boston University Medical School|Massachusetts, MA|USA
+264|Kiel University|Kiel|Germany
+265|Kaiser-Wilhelm-Institut (now Max-Planck Institut) für Chemie|Berlin-Dahlem|Germany
+266|Carnegie Institute of Technology|Pittsburgh, PA|USA
+267|Kaiser-Wilhelm-Institut (now Max-Planck-Institut) für Biologie|Berlin-Dahlem|Germany
+268|Königliches Institut für experimentelle Therapie (Royal Institute for Experimental Therapy)|Frankfurt-on-the-Main|Germany
+269|Max-Planck-Institut für Chemie|Mainz|Germany
+270|NYU Stern School of Business|New York, NY|USA
+271|Howard Hughes Medical Institute|Durham, NC|USA
+272|Duke University School of Medicine|Durham, NC|USA
+273|Laboratorium der Farben-Fabriken J.R. Geigy A.G. (Laboratory of the J.R. Geigy Dye-Factory Co.)|Basel|Switzerland
+274|Toulouse University|Toulouse|France
+275|St. Jude Children's Research Hospital|Memphis, TN|USA
+276|Forschungszentrum J&uuml;lich|Jülich|Germany
+277|University of Edinburgh|Edinburgh|United Kingdom
+278|Glynn Research Laboratories|Bodmin|United Kingdom
+279|Bell Telephone Laboratories|Murray Hill, NJ|USA
+280|Massachusetts Institute of Technology (MIT), Center for Cancer Research|Cambridge, MA|USA
+281|École municipale de physique et de chimie industrielles (Municipal School of Industrial Physics and Chemistry)|Paris|France
+282|Max Planck Institute for Extraterrestrial Physics|Garching|Germany
+283|Rheinische Friedrich-Wilhelms-Universität|Bonn|Germany
+284|Imperial Cancer Research Fund Laboratory|London|United Kingdom
+285|Associated Universities Inc.|Washington, DC|USA
+286|Rice University|Houston, TX|USA
+287|University of Delaware|\N|USA
+288|New England Biolabs|Beverly, MA|USA
+289|Kaiser-Wilhelm-Institut (now Max-Planck Institut) für Medizinische Forschung|Heidelberg|Germany
+290|Rowett Research Institute|Bucksburn (Scotland)|United Kingdom
+291|Institute of Cell Biology of the C.N.R.|Rome|Italy
+292|New York University|New York, NY|USA
+293|SUNY Health Science Center|Brooklyn, NY|USA
+294|Max-Planck-Institut für Biochemie|Martinsried|Germany
+295|University of Jerusalem, Center for RationalityHebrew|Jerusalem|Israel
+296|Duke University Medical Center|Durham, NC|USA
+297|Institute for Infectious Diseases|Berlin|Germany
+298|The Salk Institute|San Diego, CA|USA
+299|University of Zurich, Institute of Experimental Immunology|Zurich|Switzerland
+300|Institute of Physical Chemistry|Cambridge|United Kingdom
+301|University College|Liverpool|United Kingdom
+302|Veterans Administration Hospital|Bronx, NY|USA
+303|Madrid University|Madrid|Spain
+304|Kitasato University|Tokyo|Japan
+305|Lawrence Berkeley National Laboratory|Berkeley, CA|USA
+306|Rutgers University|New Brunswick, NJ|USA
+307|New York University, College of Medicine|New York, NY|USA
+308|Harvard University, Lyman Laboratory|Cambridge, MA|USA
+309|Gladstone Institutes|San Francisco, CA|USA
+310|Tokyo University of Education|Tokyo|Japan
+311|Calcutta University|Calcutta|India
+312|Walter and Eliza Hall Institute for Medical Research|Melbourne|Australia
+313|London University, King's College Hospital Medical School|London|United Kingdom
+314|Gurdon Institute|Cambridge|United Kingdom
+315|Australian National University|Canberra|Australia
+316|Cardiff University|Cardiff|United Kingdom
+317|Imperial Cancer Research Fund|London|United Kingdom
+318|Francis Crick Institute|London|United Kingdom
+319|University of Nottingham, School of Physics and Astronomy|Nottingham|United Kingdom
+320|Vanderbilt University School of Medicine|Nashville, TN|USA
+321|Max Planck Institute for Biophysical Chemistry|Göttingen|Germany
+322|The Molecular Sciences Institute|Berkeley, CA|USA
+323|Basel University|Basel|Switzerland
+324|University of Tokyo|Kashiwa|Japan
+325|Berne University|Bern|Switzerland
+326|Max-Planck-Institut für Quantenoptik|Garching|Germany
+327|Ludwig-Maximilians- Universität|Munich|Germany
+328|University of Maryland, Department of Economics and School of Public Policy|College Park, MD|USA
+329|Francis Crick Institute|Hertfordshire|United Kingdom
+330|Clare Hall Laboratory|Hertfordshire|United Kingdom
+331|Kyoto Sangyo University|Kyoto|Japan
+332|Yukawa Institute for Theoretical Physics (YITP), Kyoto University|Kyoto|Japan
+333|China Academy of Traditional Chinese Medicine|Beijing|China
+334|George Mason University|Fairfax, VA|USA
+335|Innsbruck University|Innsbruck|Austria
+336|Nancy University|Nancy|France
+337|P.N. Lebedev Physical Institute|Moscow|Russia
+338|Harvard University, Biological Laboratories|Cambridge, MA|USA
+339|Biozentrum der Universität|Basel|Switzerland
+340|Mainz University|Mainz|Germany
+341|Leipzig University|Leipzig|Germany
+342|Würzburg University|Würzburg|Germany
+343|Semiconductor Laboratory of Beckman Instruments, Inc.|Mountain View, CA|USA
+344|Drew University|Madison, NJ|USA
+345|National Institute of Standards and Technology|Gaithersburg, MD|USA
+346|Howard Hughes Medical Institute|Chevy Chase, MD|USA
+347|Dana-Farber Cancer Institute|Boston, MA|USA
+348|Peter Brent Brigham Hospital|Boston, MA|USA
+349|University of Bonn|Bonn|Germany
+350|Enrico Fermi Institute, University of Chicago|Chicago, IL|USA
+351|Tokyo Institute of Technology|Tokyo|Japan
+352|Institut Français du Pétrole|Rueil-Malmaison|France
+353|A.F. Ioffe Physico-Technical Institute|St. Petersburg|Russia
